@@ -2,7 +2,7 @@ import { lazy, Suspense } from "react"
 import {
   createBrowserRouter,
   createRoutesFromElements,
-  Route,
+  Route, 
   RouterProvider,
 } from "react-router-dom"
 import Spinner from "./components/atoms/spinner"
